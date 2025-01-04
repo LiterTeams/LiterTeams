@@ -2,7 +2,7 @@
 
 <p align="center">A small team of several people specializing in web application development.</p>
 
-<h4 align="center">💻 full stack developer team | 💬 connect <a href="[https://vk.com/clyoucker](Clyoukcer)">@Clyoucker</a></h4>
+<h4 align="center">💻 full stack developer team | 💬 connect <a href="https://vk.com/clyoucker">@Clyoucker</a></h4>
 
 <br/>
 
